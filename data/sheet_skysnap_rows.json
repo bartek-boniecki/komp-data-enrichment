@@ -1,0 +1,69 @@
+[
+  {
+    "row": 1,
+    "data": {
+      "Adress Pobrany przez kogos innego": "Adress Pobrany przez kogos innego",
+      "Orygin Link ": "Orygin Link ",
+      "Nazwa Inwestycji": "Nazwa Inwestycji",
+      "Company name": "Company name",
+      "KI:": "KI:",
+      "DN": "DN",
+      "Deal Name": "Deal Name",
+      "Website URL": "Website URL",
+      "Mobile Phone Number": "Mobile Phone Number"
+    }
+  },
+  {
+    "row": 206,
+    "data": {
+      "Orygin Link ": "https://kompasinwestycji.pl/s19-kock-koniec-obwodnicy-woli-skromowskiej-lubartow-wezel-annobor-3867",
+      "Nazwa Inwestycji": "S19, Kock (koniec obwodnicy Woli Skromowskiej) - Lubartów (węzeł Annobór)",
+      "Company name": "DTŚ S.A.",
+      "KI:": "KI:",
+      "DN": "DTŚ ,S19, Kock - Lubartów ",
+      "Deal Name": "KI: DTŚ ,S19, Kock - Lubartów ",
+      "Website URL": "www.dts-sa.pl",
+      "col_9": "607 204 303",
+      "col_10": "`+48 ",
+      "Mobile Phone Number": "`+48 607 204 303"
+    }
+  },
+  {
+    "row": 452,
+    "data": {
+      "Orygin Link ": "https://kompasinwestycji.pl/dw820-leczna-sosnowica-84453",
+      "Nazwa Inwestycji": "DW820, Łęczna - Sosnowica",
+      "Company name": "Przedsiębiorstwo Robót Drogowych Lubartów S.A.",
+      "KI:": "KI:",
+      "DN": "PRD, DW820, Łęczna - Sosnowica",
+      "Deal Name": "KI: PRD, DW820, Łęczna - Sosnowica",
+      "Website URL": "https://www.prd.pl/1-al-ofirmie.html",
+      "col_9": "(81) 746 22 94",
+      "col_10": "`+48 ",
+      "Mobile Phone Number": "`+48 (81) 746 22 94"
+    }
+  },
+  {
+    "row": 464,
+    "data": {
+      "Orygin Link ": "Lubartów, Poland",
+      "Nazwa Inwestycji": "https://www.kompasinwestycji.pl/-110419",
+      "Company name": "Zagospodarowanie nieruchomości, ul. Strefowa",
+      "DN": "25",
+      "Deal Name": "NIE",
+      "Website URL": "Zagospodarowanie nieruchomości, ul. Strefowa"
+    }
+  },
+  {
+    "row": 465,
+    "data": {
+      "Orygin Link ": "Karolewo, Poland",
+      "Nazwa Inwestycji": "https://www.kompasinwestycji.pl/zaklad-produkcyjny-karolex-rozbudowa-102749",
+      "Company name": "Zakład produkcyjny Karolex - rozbudowa",
+      "KI:": "Karolex",
+      "DN": "15",
+      "Deal Name": "NIE",
+      "Website URL": "Zakład produkcyjny Karolex - rozbudowa"
+    }
+  }
+]

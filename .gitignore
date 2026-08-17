@@ -1,0 +1,20 @@
+# Secrets — never commit (a live service-account key was found in this repo;
+# rotate it in GCP before the next push)
+Credentials.json
+*.credentials.json
+.env
+.env.*
+!.env.example
+
+# Local state
+data/*.sqlite
+data/*.sqlite-wal
+data/*.sqlite-shm
+data/kompass_browser_state/
+data/logs/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
